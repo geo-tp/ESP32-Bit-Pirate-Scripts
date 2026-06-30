@@ -2,7 +2,9 @@
 
 ![Bit Pirate Scripts](https://github.com/geo-tp/ESP32-Bit-Pirate/raw/pioarduino/images/bus_pirate_scripts.png)
 
-A collection of **easy-to-use** Python scripts to control the [**ESP32 Bit Pirate**](https://github.com/geo-tp/ESP32-Bit-Pirate) via USB serial interface, WiFi or BPIO adapter.;
+A collection of **easy-to-use** Python scripts to control the [**ESP32 Bit Pirate**](https://github.com/geo-tp/ESP32-Bit-Pirate) via USB serial interface, WiFi or BPIO adapter.
+
+The `bit-pirate` package repo is available here: [Bit-Pirate-Python](https://github.com/geo-tp/Bit-Pirate-Python)
 
 ## Install
 
